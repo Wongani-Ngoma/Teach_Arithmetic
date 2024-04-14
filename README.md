@@ -1,4 +1,4 @@
-# Teach_Arithmetic
+# Teach Arithmetic
 Generates simple arithmetic problems for small children
 
 # How they're genarated
